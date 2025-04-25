@@ -1,3 +1,3 @@
-this is a new user.
-this person lives in new place.
-this person working in new organization.
+this is a dev-2.
+this person lives in dev-2 place.
+this person working in dev-2 organization.
